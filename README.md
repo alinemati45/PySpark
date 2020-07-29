@@ -9,6 +9,7 @@
 4. [Data Manipulation: Features](https://github.com/alinemati45/LearningApacheSpark/blob/master/4.%20Data%20Manipulation:%20Features.ipynb)
 
 5. [All Regression models](https://github.com/alinemati45/LearningApacheSpark/blob/master/5.%20Linear%20Regression.ipynb)
+
         1. LinearRegression
         2. GeneralizedLinearRegression
         3. DecisionTreeRegressor
