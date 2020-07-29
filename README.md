@@ -1,4 +1,4 @@
-# LearningApacheSpark
+# `LearningApacheSpark`
 
 1. [Introduction](https://github.com/alinemati45/LearningApacheSpark/blob/master/1.%20Introduction.ipynb)
 
