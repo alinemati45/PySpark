@@ -32,4 +32,4 @@
 
 7.4 [Gradient-boosted tree Classification Model](https://github.com/alinemati45/LearningApacheSpark/blob/master/7.4%20Gradient-boosted%20tree%20Classification.ipynb)
 
-7.1 [ Multilayer perceptron classifier model](https://github.com/alinemati45/LearningApacheSpark/blob/master/7.5%20Multilayer%20perceptron%20classifier.ipynb)
+7.5 [ Multilayer perceptron classifier model](https://github.com/alinemati45/LearningApacheSpark/blob/master/7.5%20Multilayer%20perceptron%20classifier.ipynb)
