@@ -1,0 +1,56 @@
+---
+title: "Data Analysis with PySpark"
+author: "Ali Nemati"
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y , %H:%M:%S')`"
+fontsize: 13pt
+geometry: "left=1.2cm,right=1.2cm,top=2cm,bottom=2cm"
+
+output:
+  html_document:
+    includes: null
+    number_sections: true
+    toc: yes
+    toc_float: true
+    toc_depth: '4'
+
+  pdf_document:
+    includes: null
+    number_sections: true
+    toc: yes
+    toc_depth: 4
+    latex_engine: xelatex
+  word_document:
+    number_sections: true
+    toc: yes
+    toc_depth: '4'
+urlcolor: blue
+tables: true
+graphics: yes
+linkcolor: red
+# header-includes:
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \fancyhead[CO,CE]{Top Leedcode question python and SQL}
+- \fancyfoot[CO,CE]{Ali Nemati}
+- \fancyfoot[LE,RO]{\thepage}
+- \usepackage{hyperref}
+- \usepackage{xcolor}
+- \hypersetup{frenchlinks=true, colorlinks = TRUE,  urlcolor = blue, pdfborder={0 0 1}} 
+link-citations: yes
+ident: True
+editor_options: 
+  markdown: 
+    wrap: 80
+---
+
+\newpage
+
+# Introduction
+
+
+
+
+# Link data
+<https://www.dropbox.com/sh/ebwuv1y2rrwl6v8/AAAPEQ8F12RMKcmC8pjFUYiSa?dl=0>
+
